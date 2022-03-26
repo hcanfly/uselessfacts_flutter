@@ -1,6 +1,6 @@
 # Useless Facts
 
-UselessFacts is a very simple Flutter app that presents a useless fact of the day, and random useless facts. I found these to be mostly interesting and/or humorous. Really good site for facts. This is an app I actually use almost daily when I take a few minutes off and want a quick diversion.
+UselessFacts is a very simple Flutter app that presents a useless fact of the day, and random useless facts. I found these to be mostly interesting and/or humorous. Really good (and completely free) site for facts. This is an app I actually use almost daily when I take a few minutes off and want a quick diversion.
 
 
 <img src="Screenshot.png" width="400">
